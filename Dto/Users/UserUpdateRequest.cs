@@ -1,10 +1,6 @@
 namespace RindusBackend.Dto.Users;
 
-public class UserUpdateRequest
+public class UserUpdateRequest : UserDto
 {
-    public string? Name { get; set; }
-
-    public string? Surname { get; set; }
-
-    public string? Email { get; set; }
+    public int? Id { get; set; }
 }
