@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace RindusBackend.Models;
+namespace WebApi.Models;
 
 public class UserModel
 {

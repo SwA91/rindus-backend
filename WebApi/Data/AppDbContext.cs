@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using RindusBackend.Models;
+using WebApi.Models;
 
-namespace RindusBackend.Data;
+namespace WebApi.Data;
 
 public class AppDbContext : DbContext
 {

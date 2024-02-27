@@ -1,10 +1,10 @@
 using System.Net;
 using Microsoft.EntityFrameworkCore;
 using NetKubernetes.Middleware;
-using RindusBackend.Dto.Users;
-using RindusBackend.Models;
+using WebApi.Dto.Users;
+using WebApi.Models;
 
-namespace RindusBackend.Data.Users;
+namespace WebApi.Data.Users;
 
 public class UserRepository : IUserRepository
 {

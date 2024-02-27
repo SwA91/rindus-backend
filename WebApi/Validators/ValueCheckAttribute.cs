@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace RindusBackend.Validators;
+namespace WebApi.Validators;
 
 public class ValueCheckAttribute : ValidationAttribute
 {

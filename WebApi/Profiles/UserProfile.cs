@@ -1,8 +1,8 @@
 using AutoMapper;
-using RindusBackend.Dto.Users;
-using RindusBackend.Models;
+using WebApi.Dto.Users;
+using WebApi.Models;
 
-namespace RindusBackend.Profiles;
+namespace WebApi.Profiles;
 
 public class UserProfile : Profile
 {

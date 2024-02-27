@@ -1,9 +1,9 @@
 using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using NetKubernetes.Middleware;
-using RindusBackend.Data;
-using RindusBackend.Data.Users;
-using RindusBackend.Profiles;
+using WebApi.Data;
+using WebApi.Data.Users;
+using WebApi.Profiles;
 
 var builder = WebApplication.CreateBuilder(args);
 

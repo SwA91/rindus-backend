@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
-using RindusBackend.Validators;
+using WebApi.Validators;
 
-namespace RindusBackend.Dto.Users;
+namespace WebApi.Dto.Users;
 
 public class UserDto
 {

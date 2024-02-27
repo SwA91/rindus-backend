@@ -1,11 +1,11 @@
 using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using RindusBackend.Data.Users;
-using RindusBackend.Dto.Users;
-using RindusBackend.Models;
+using WebApi.Data.Users;
+using WebApi.Dto.Users;
+using WebApi.Models;
 
-namespace RindusBackend.Controllers;
+namespace WebApi.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

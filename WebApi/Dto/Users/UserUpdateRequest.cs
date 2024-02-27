@@ -1,4 +1,4 @@
-namespace RindusBackend.Dto.Users;
+namespace WebApi.Dto.Users;
 
 public class UserUpdateRequest : UserDto
 {
