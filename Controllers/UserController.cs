@@ -53,7 +53,7 @@ public class UserController : ControllerBase
     }
 
     [AllowAnonymous]
-    [HttpPost("update")]
+    [HttpPut("update")]
     public async Task<ActionResult<UserUpdateResponse>> UpdateUser(
         [FromBody] UserUpdateRequest request
     )
