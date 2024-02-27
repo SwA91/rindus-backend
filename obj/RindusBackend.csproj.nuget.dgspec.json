@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\RindusBackend.csproj": {}
+    "c:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\RindusBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\RindusBackend.csproj": {
+    "c:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\RindusBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\RindusBackend.csproj",
+        "projectUniqueName": "c:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\RindusBackend.csproj",
         "projectName": "RindusBackend",
-        "projectPath": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\RindusBackend.csproj",
+        "projectPath": "c:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\RindusBackend.csproj",
         "packagesPath": "C:\\Users\\willy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\obj\\",
+        "outputPath": "c:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\willy\\AppData\\Roaming\\NuGet\\NuGet.Config"

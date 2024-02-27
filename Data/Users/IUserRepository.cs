@@ -13,7 +13,7 @@ public interface IUserRepository
 
     Task<IEnumerable<UserModel>> GetAllUsers();
 
-    Task UpdateUser(UserUpdateRequest userRequest);
+    Task<UserModel> UpdateUser(UserModel userRequest);
 
     Task DeleteUser(int id);
 }

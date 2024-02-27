@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ivpzxxibPovba1Krls640Odi2KewVFAb/M0AiR6dKo2c7imImqN+xdHS+hBtAekvPy7ukQunnS1oe5Fh2MfiNA==",
+  "dgSpecHash": "t2O+Wgf8N2k54oSbb0IaM3u/bOfWZtJh7He65x77tPPMzQ601fwjy+ZCBc8EjfVc8fPzS4cmxr+Hx4EtbMKWtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\RindusBackend.csproj",
+  "projectFilePath": "c:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\RindusBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\willy\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\willy\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

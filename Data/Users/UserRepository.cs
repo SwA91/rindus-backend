@@ -47,15 +47,17 @@ public class UserRepository : IUserRepository
         await _dbContext.User!.AddAsync(userRequest);
     }
 
-    public async Task UpdateUser(UserUpdateRequest userRequest)
+    public async Task<UserModel> UpdateUser(UserModel userRequest)
     {
-        // await ValidateRequest(UserValidate.DATA_CORRECT, userRequest);
-        // await ValidateRequest(UserValidate.ID, userRequest);
+        await ValidateRequest(UserValidate.DATA_CORRECT, userRequest);
+        await ValidateRequest(UserValidate.ID, userRequest);
 
-        UserModel result = await _dbContext.User!.FirstAsync(user => user.Id == userRequest.Id);
-        result.Name = userRequest.Name;
-        result.Surname = userRequest.Surname;
-        result.LastUpdated = DateTime.Now;
+        UserModel userDb = await _dbContext.User!.FirstAsync(user => user.Id == userRequest.Id);
+        userDb.Name = userRequest.Name;
+        userDb.Surname = userRequest.Surname;
+        userDb.LastUpdated = DateTime.Now;
+
+        return userDb;
     }
 
     public async Task DeleteUser(int id)
@@ -86,10 +88,10 @@ public class UserRepository : IUserRepository
                 break;
 
             case UserValidate.ID:
-                if (await _dbContext.User!.Where(user => user.Id != userRequest.Id).AnyAsync())
+                if (!await _dbContext.User!.Where(user => user.Id == userRequest.Id).AnyAsync())
                 {
                     isValid = false;
-                    message = "User id does not existed in Data Base";
+                    message = "User id does not exist in Data Base";
                 }
                 break;
             case UserValidate.EMAIL_NOT_EXIST:

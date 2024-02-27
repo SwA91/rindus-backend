@@ -49,17 +49,25 @@ public class UserController : ControllerBase
         await _userRepository.AddUser(userModel);
         await _userRepository.SaveChanges();
 
-        UserAddResponse userResponse = _mapper.Map<UserAddResponse>(userModel);
+        return Ok(_mapper.Map<UserAddResponse>(userModel));
+    }
 
-        return CreatedAtRoute(
-            nameof(GetUserById),
-            new { userResponse.Id },
-            userResponse
-        );
+    [AllowAnonymous]
+    [HttpPost("update")]
+    public async Task<ActionResult<UserUpdateResponse>> UpdateUser(
+        [FromBody] UserUpdateRequest request
+    )
+    {
+        UserModel userModel = _mapper.Map<UserModel>(request);
+        UserModel userDb = await _userRepository.UpdateUser(userModel);
+        await _userRepository.SaveChanges();
+
+        return Ok(_mapper.Map<UserUpdateResponse>(userDb));
     }
 
     [AllowAnonymous]
     [HttpGet("{id}")]
+    [ActionName(nameof(GetUserById))]
     public async Task<ActionResult<UserDataResponse>> GetUserById(int id)
     {
         UserModel userModel = await _userRepository.GetUserById(id);
