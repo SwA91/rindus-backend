@@ -21,6 +21,7 @@ public class UserController : ControllerBase
         _mapper = mapper;
     }
 
+    [AllowAnonymous]
     [HttpDelete("{id}")]
     public async Task<ActionResult> DeleteUser(int id)
     {
@@ -30,6 +31,7 @@ public class UserController : ControllerBase
 
     }
 
+    [AllowAnonymous]
     [HttpGet]
     public async Task<ActionResult<IEnumerable<UserDataResponse>>> GetUsers()
     {
@@ -56,6 +58,7 @@ public class UserController : ControllerBase
         );
     }
 
+    [AllowAnonymous]
     [HttpGet("{id}")]
     public async Task<ActionResult<UserDataResponse>> GetUserById(int id)
     {
