@@ -39,8 +39,14 @@ cd rindus-backend
 # Set up your SQL Server
 # Please update the database connection credentials if necessary, it's in WebApi/appsettings.json
 
+# Note: Dotnet version required is v7.0
+dotnet --version
+
 # Build and run local dev server
 dotnet run --project WebApi
+
+# API REST CRUD for User
+http://localhost:5000/api/user
 ```
 
 #### Disclaimer
