@@ -2,7 +2,6 @@
 *.d
 obj
 bin
-Migrations
 
 
 # Compiled Object files

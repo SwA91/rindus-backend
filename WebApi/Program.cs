@@ -1,6 +1,6 @@
 using AutoMapper;
 using Microsoft.EntityFrameworkCore;
-using NetKubernetes.Middleware;
+using WebApi.Middleware;
 using WebApi.Data;
 using WebApi.Data.Users;
 using WebApi.Profiles;
