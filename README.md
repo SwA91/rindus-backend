@@ -20,10 +20,10 @@ This project is a code task for Full Stack Developer, this is the part back-end.
 
 #### Commands
 
-| command                   | What it does?                                 |
-| ------------------------- | :-------------------------------------------- |
-| `dotnet run --project WebApi`              | Starts the server in dev mode                 |
-| `dotnet test`             | Starts the server in test mode                |
+| command                           | What it does?                                 |
+| --------------------------------- | :-------------------------------------------- |
+| `dotnet run --project WebApi`     | Starts the server in dev mode                 |
+| `dotnet test`                     | Starts test mode                |
 
 ### Local Development
 
@@ -38,7 +38,6 @@ cd rindus-backend
 
 # Set up your SQL Server
 # Please update the database connection credentials if necessary, it's in appsettings.json
-
 
 # Build and run local dev server
 dotnet run --project WebApi
