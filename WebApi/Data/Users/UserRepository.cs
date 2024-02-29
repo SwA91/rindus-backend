@@ -1,7 +1,6 @@
 using System.Net;
 using Microsoft.EntityFrameworkCore;
-using NetKubernetes.Middleware;
-using WebApi.Dto.Users;
+using WebApi.Middleware;
 using WebApi.Models;
 
 namespace WebApi.Data.Users;

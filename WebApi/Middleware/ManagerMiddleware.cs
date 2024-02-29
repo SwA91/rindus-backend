@@ -1,7 +1,7 @@
 using System.Net;
 using Newtonsoft.Json;
 
-namespace NetKubernetes.Middleware;
+namespace WebApi.Middleware;
 
 public class ManagerMiddleware
 {

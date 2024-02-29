@@ -1,6 +1,6 @@
 using System.Net;
 
-namespace NetKubernetes.Middleware;
+namespace WebApi.Middleware;
 
 public class MiddlewareException : Exception
 {

@@ -1,4 +1,3 @@
-using WebApi.Dto.Users;
 using WebApi.Models;
 
 namespace WebApi.Data.Users;
