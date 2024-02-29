@@ -12,11 +12,11 @@ This project is a code task for Full Stack Developer, this is the part back-end.
 
 #### Features
 
-- [x] Tests
 - [x] Controller with API REST CRUD for User
 - [x] Model with Entity Framework for User
 - [x] Newtonsoft for object .NET to JSON vice versa
 - [x] Validate any attribute of the DTO Objects
+- [x] Tests
 
 #### Commands
 
@@ -37,7 +37,7 @@ git clone https://github.com/SwA91/rindus-backend.git
 cd rindus-backend
 
 # Set up your SQL Server
-# Please update the database connection credentials if necessary, it's in appsettings.json
+# Please update the database connection credentials if necessary, it's in WebApi/appsettings.json
 
 # Build and run local dev server
 dotnet run --project WebApi
