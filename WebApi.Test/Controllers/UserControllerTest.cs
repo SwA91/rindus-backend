@@ -120,23 +120,15 @@ public class UserControllerTest
 
     [Theory, AutoNSubstituteData]
     public async void AddUser_Nok(
-        UserAddRequest request,
         UserModel userModel,
         [Frozen] IUserRepository _repository,
-        [NoAutoProperties] UserController _controller,
         [Frozen] IMapper _mapper
     )
     {
         // Arrange
         _repository.AddUser(userModel).Returns(Task.FromException(new Exception("error")));
-        // _repository.SaveChanges().Returns(Task.FromException(new Exception("error")));
-
-        // Act
-        var result = () => _controller.AddUser(request);
 
         // Assert
-        // Exception ex = await Assert.ThrowsAsync<Exception>(result);
-        // Assert.Equal("error", ex.Message);
         await _repository.DidNotReceive().SaveChanges();
         _mapper.DidNotReceive().Map<UserAddResponse>(userModel);
     }
