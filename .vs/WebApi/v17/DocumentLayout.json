@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|c:\\users\\willy\\documents\\cursos\\rindus-backend\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E8CBC6-04AB-45C7-A363-D41330CD30D0}|WebApi.Test\\WebApi.Test.csproj|c:\\users\\willy\\documents\\cursos\\rindus-backend\\webapi.test\\controllers\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E8CBC6-04AB-45C7-A363-D41330CD30D0}|WebApi.Test\\WebApi.Test.csproj|solutionrelative:webapi.test\\controllers\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|c:\\users\\willy\\documents\\cursos\\rindus-backend\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|c:\\users\\willy\\documents\\cursos\\rindus-backend\\webapi\\dto\\users\\userupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\users\\userupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|c:\\users\\willy\\documents\\cursos\\rindus-backend\\webapi\\dto\\users\\useraddresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\users\\useraddresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|c:\\users\\willy\\documents\\cursos\\rindus-backend\\webapi\\dto\\users\\useraddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\users\\useraddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|c:\\users\\willy\\documents\\cursos\\rindus-backend\\webapi\\dto\\users\\userdataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\users\\userdataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|c:\\users\\willy\\documents\\cursos\\rindus-backend\\webapi\\dto\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|c:\\users\\willy\\documents\\cursos\\rindus-backend\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|c:\\users\\willy\\documents\\cursos\\rindus-backend\\webapi\\middleware\\managermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460E40B-8660-4172-9983-27CDF481CF0F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\middleware\\managermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi.Test\\Controllers\\UserControllerTest.cs",
+              "RelativeDocumentMoniker": "WebApi.Test\\Controllers\\UserControllerTest.cs",
+              "ToolTip": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi.Test\\Controllers\\UserControllerTest.cs",
+              "RelativeToolTip": "WebApi.Test\\Controllers\\UserControllerTest.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:38:10.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-08T14:37:51.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Dto\\Users\\UserUpdateRequest.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dto\\Users\\UserUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Dto\\Users\\UserUpdateRequest.cs",
+              "RelativeToolTip": "WebApi\\Dto\\Users\\UserUpdateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:37:39.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserAddResponse.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Dto\\Users\\UserAddResponse.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dto\\Users\\UserAddResponse.cs",
+              "ToolTip": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Dto\\Users\\UserAddResponse.cs",
+              "RelativeToolTip": "WebApi\\Dto\\Users\\UserAddResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:37:30.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserAddRequest.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Dto\\Users\\UserAddRequest.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dto\\Users\\UserAddRequest.cs",
+              "ToolTip": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Dto\\Users\\UserAddRequest.cs",
+              "RelativeToolTip": "WebApi\\Dto\\Users\\UserAddRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:37:17.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwCYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:36:02.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDataResponse.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Dto\\Users\\UserDataResponse.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dto\\Users\\UserDataResponse.cs",
+              "ToolTip": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Dto\\Users\\UserDataResponse.cs",
+              "RelativeToolTip": "WebApi\\Dto\\Users\\UserDataResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:35:32.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Dto\\Users\\UserDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dto\\Users\\UserDto.cs",
+              "ToolTip": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Dto\\Users\\UserDto.cs",
+              "RelativeToolTip": "WebApi\\Dto\\Users\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:35:29.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:34:37.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManagerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Middleware\\ManagerMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApi\\Middleware\\ManagerMiddleware.cs",
+              "ToolTip": "C:\\Users\\willy\\Documents\\CURSOS\\rindus-backend\\WebApi\\Middleware\\ManagerMiddleware.cs",
+              "RelativeToolTip": "WebApi\\Middleware\\ManagerMiddleware.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:34:10.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
